@@ -1,7 +1,7 @@
 # HR_Analytics_Dashboard-Power-BI
 
 ## 🔍Project Overview:
-This HR Data Analyst dashboard project is designed to provide strategic insights into a company's workforce using Power BI. It utilizes data from a structured Excel dataset and presents key HR metrics in an interactive and visually intuitive manner.
+This end-to-end HR Analytics project is built using Power BI to provide comprehensive insights into employee data, focusing on key HR metrics such as attrition, performance, diversity, compensation, and workforce demographics. The goal is to assist HR departments in making informed, data-driven decisions to improve employee retention, satisfaction, and organizational efficiency.
 
 ### 📊 Key Features:
 - **Employee Overview:** Summary of total employees, average age, gender distribution, marital status, and department-wise counts.
@@ -16,7 +16,7 @@ This HR Data Analyst dashboard project is designed to provide strategic insights
 
 - **Interactive Filters:** Slicers for dynamic filtering by department, job role, education field, gender, etc.
 
-### 🧰 Tools & Technologies:
+### 🛠️ Tech Stack:
 - **Power BI Desktop:** Data modeling, DAX measures, and visualization.
 
 - **Excel:** Data source containing raw employee HR data.
@@ -41,5 +41,5 @@ This HR Data Analyst dashboard project is designed to provide strategic insights
 ### 🎯 Business Objective:
 To empower HR stakeholders with data-driven insights that facilitate better**workforce planning, reduce attrition**, and **enhance employee satisfaction**8.
 
-## 📸 **Screenshots & Visuals**
+### 📸 Sample Dashboard Preview
 ![Hr DATA ANALYST DASHBOARD IMG](https://github.com/user-attachments/assets/0e3c964a-35de-4d54-b587-7c609c996bfb)
